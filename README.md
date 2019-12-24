@@ -1,4 +1,7 @@
 # SentimentAnalysis
+[返回首页](https://desperadoadil.github.io/)  
+
+---
 
 ### 项目概述
 - 项目参考了[`Yoon Kim`](http://www.people.fas.harvard.edu/~yoonkim/)的论文[`Convolutional Neural Networks for Sentence Classification`](https://arxiv.org/pdf/1408.5882.pdf)的实现方法，利用CNN卷积神经网络完成语句情感分析。
